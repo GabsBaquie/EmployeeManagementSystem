@@ -1,0 +1,27 @@
+[
+  {
+    "Type": "FullTimeEmployee",
+    "Id": 1,
+    "Name": "John Doe",
+    "AnnualSalary": 60000
+  },
+  {
+    "Type": "PartTimeEmployee",
+    "Id": 2,
+    "Name": "Jane Smith",
+    "HourlyRate": 30,
+    "HoursWorked": 120
+  },
+  {
+    "Type": "Contractor",
+    "Id": 3,
+    "Name": "Bob Johnson",
+    "ContractAmount": 30000
+  },
+  {
+    "Type": "FullTimeEmployee",
+    "Id": 4,
+    "Name": "Myles Obrien",
+    "AnnualSalary": 50000
+  }
+]

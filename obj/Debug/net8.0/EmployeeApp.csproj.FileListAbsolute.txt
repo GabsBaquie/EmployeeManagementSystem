@@ -1,0 +1,15 @@
+/Users/gabriellebaquie/csharp/EmployeeApp/bin/Debug/net8.0/EmployeeApp
+/Users/gabriellebaquie/csharp/EmployeeApp/bin/Debug/net8.0/EmployeeApp.deps.json
+/Users/gabriellebaquie/csharp/EmployeeApp/bin/Debug/net8.0/EmployeeApp.runtimeconfig.json
+/Users/gabriellebaquie/csharp/EmployeeApp/bin/Debug/net8.0/EmployeeApp.dll
+/Users/gabriellebaquie/csharp/EmployeeApp/bin/Debug/net8.0/EmployeeApp.pdb
+/Users/gabriellebaquie/csharp/EmployeeApp/obj/Debug/net8.0/EmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabriellebaquie/csharp/EmployeeApp/obj/Debug/net8.0/EmployeeApp.AssemblyInfoInputs.cache
+/Users/gabriellebaquie/csharp/EmployeeApp/obj/Debug/net8.0/EmployeeApp.AssemblyInfo.cs
+/Users/gabriellebaquie/csharp/EmployeeApp/obj/Debug/net8.0/EmployeeApp.csproj.CoreCompileInputs.cache
+/Users/gabriellebaquie/csharp/EmployeeApp/obj/Debug/net8.0/EmployeeApp.sourcelink.json
+/Users/gabriellebaquie/csharp/EmployeeApp/obj/Debug/net8.0/EmployeeApp.dll
+/Users/gabriellebaquie/csharp/EmployeeApp/obj/Debug/net8.0/refint/EmployeeApp.dll
+/Users/gabriellebaquie/csharp/EmployeeApp/obj/Debug/net8.0/EmployeeApp.pdb
+/Users/gabriellebaquie/csharp/EmployeeApp/obj/Debug/net8.0/EmployeeApp.genruntimeconfig.cache
+/Users/gabriellebaquie/csharp/EmployeeApp/obj/Debug/net8.0/ref/EmployeeApp.dll

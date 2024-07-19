@@ -73,9 +73,10 @@ Un convertisseur JSON personnalisé pour désérialiser des objets `Employee` à
 
 ## Utilisation
 
-1. Assurez-vous que le fichier JSON `employees.json` est disponible et contient les données des employés.
-2. Compilez et exécutez l’application.
+1. S'assurer que le fichier JSON `employees.json` est disponible et contient les données des employés.
+2. Compiler et exécuter l’application.
 3. L’application lira le fichier JSON, désérialisera les données, effectuera des calculs et affichera les résultats dans la console.
+4. Tester le code en utilisant `dotnet run`.
 
 ## Réflexion
 
